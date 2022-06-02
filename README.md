@@ -4,6 +4,3 @@
 # Tecnologias
 - HTML5
 - CSS3
-# Próximos passos
-- Imagem do banner realizar tratamentos ou trocar para uma de melhor qualidade.
-- Deixar responsivo
